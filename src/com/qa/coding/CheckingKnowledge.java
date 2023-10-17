@@ -49,5 +49,7 @@ public class CheckingKnowledge {
 
 		System.out.println(counter);
 
+
+
 	}
 }
